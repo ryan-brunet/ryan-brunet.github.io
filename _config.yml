@@ -22,7 +22,7 @@ title: Ryan Brunet
 email: ryanbrunet@student.unimelb.edu.au
 description: >- # this means to ignore newlines until "baseurl:"
   PhD student in the University of Melbourne School of Physics. Member of [OzGrav](https://www.ozgrav.org).
-baseurl: "" # the subpath of your site, e.g. /blog
+# baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ryan-brunet.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  ryan-brunet
