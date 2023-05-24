@@ -14,5 +14,7 @@ Here's some papers of interest in the field I spend most of my time in:
 
 
 [About](./about.markdown)
+
 [Publications](./publications.md)
+
 [Talks](./talks.md)
