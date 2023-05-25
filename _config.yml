@@ -1,8 +1,7 @@
 title: Ryan Brunet
 email: ryanbrunet@student.unimelb.edu.au
 description: PhD student in the University of Melbourne School of Physics. Member of OzGrav.
-# baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://ryan-brunet.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://ryan-brunet.github.io"
 # github_username:  ryan-brunet
 favicon: True
 
@@ -18,7 +17,6 @@ sidebar:
 
 # Build settings
 remote_theme: pages-themes/minimal@v0.2.0
-# theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
